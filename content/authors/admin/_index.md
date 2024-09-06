@@ -93,17 +93,13 @@ skills:
         icon: 网球
 
 languages:
-  - name: Madarin
+  - name: Mandarin
     percent: 100
   - name: English
     percent: 90
   - name: Korean
     percent: 25
 
-# Publications.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 publications:
   - title: The impacts of automation and augmentation AI use on physicians’ performance: an ambidextrous perspective
     journal: International Journal of Operations & Production Management
@@ -113,7 +109,6 @@ publications:
     journal: Journal of Business & Industrial Marketing
   - title: 基于数字技术的医疗管理文献回顾与展望
     journal: 工程管理科技前沿
-
 ---
 
 I am currently an assistant professor at Zhengzhou University, my research area includes AI-human interaction, and supply chain operations based on empirical methods.
