@@ -30,8 +30,6 @@ profiles:
   - icon: at-symbol
     url: "mailto:isenguo@gmail.com"
     label: E-mail Me
-  - icon: brands/researchgate
-    url: https://www.researchgate.net/profile/Mengqiu-Guo-4
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram
