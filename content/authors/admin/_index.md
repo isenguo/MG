@@ -56,7 +56,16 @@ work:
     company_name: School of Management, Zhengzhou University
     company_url: 'http://www7.zzu.edu.cn/glxy/index.htm'
     date_start: 2023-10
-    
+
+publications:
+  - title: “The impacts of automation and augmentation AI use on physicians’ performance: an ambidextrous perspective”
+    journal: International Journal of Operations & Production Management
+  - title: “The impacts of the combination service model of cardiac rehabilitation on patient outcomes: evidence from a hospital experience”
+    journal: Biotechnology and Genetic Engineering Reviews
+  - title: “The impact of supply chain specific investments on firms’ market performance: the mediating role of innovation”
+    journal: Journal of Business & Industrial Marketing
+  - title: “基于数字技术的医疗管理文献回顾与展望”
+    journal: 工程管理科技前沿
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -100,15 +109,7 @@ languages:
   - name: Korean
     percent: 25
 
-publications:
-  - title: “The impacts of automation and augmentation AI use on physicians’ performance: an ambidextrous perspective”
-    journal: International Journal of Operations & Production Management
-  - title: “The impacts of the combination service model of cardiac rehabilitation on patient outcomes: evidence from a hospital experience”
-    journal: Biotechnology and Genetic Engineering Reviews
-  - title: “The impact of supply chain specific investments on firms’ market performance: the mediating role of innovation”
-    journal: Journal of Business & Industrial Marketing
-  - title: “基于数字技术的医疗管理文献回顾与展望”
-    journal: 工程管理科技前沿
+
 ---
 
 I am currently an assistant professor at Zhengzhou University, my research area includes AI-human interaction, and supply chain operations based on empirical methods.
