@@ -65,11 +65,11 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: devicon/python
       - name: RStudio
         description: ''
-        percent: 100
+        percent: 50
         icon: devicon/rstudio
       - name: PyTorch
         description: ''
@@ -81,8 +81,8 @@ skills:
     items:
       - name: Movies
         description: ''
-        percent: 60
-        icon: Movies
+        percent: 80
+        icon: 电影
       - name: Dogs
         description: ''
         percent: 100
@@ -93,43 +93,27 @@ skills:
         icon: 网球
 
 languages:
-  - name: English
+  - name: Madarin
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: English
+    percent: 90
+  - name: Korean
     percent: 25
 
-# Awards.
+# Publications.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+publications:
+  - title: The impacts of automation and augmentation AI use on physicians’ performance: an ambidextrous perspective
+    journal: International Journal of Operations & Production Management
+  - title: The impacts of the combination service model of cardiac rehabilitation on patient outcomes: evidence from a hospital experience
+    journal: Biotechnology and Genetic Engineering Reviews
+  - title: The impact of supply chain specific investments on firms’ market performance: the mediating role of innovation
+    journal: Journal of Business & Industrial Marketing
+  - title: 基于数字技术的医疗管理文献回顾与展望
+    journal: 工程管理科技前沿
+
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently an assistant professor at Zhengzhou University, my research area includes AI-human interaction, and supply chain operations based on empirical methods.
