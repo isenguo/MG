@@ -101,13 +101,13 @@ languages:
     percent: 25
 
 publications:
-  - title: The impacts of automation and augmentation AI use on physicians’ performance: an ambidextrous perspective
+  - title: “The impacts of automation and augmentation AI use on physicians’ performance: an ambidextrous perspective”
     journal: International Journal of Operations & Production Management
-  - title: The impacts of the combination service model of cardiac rehabilitation on patient outcomes: evidence from a hospital experience
+  - title: “The impacts of the combination service model of cardiac rehabilitation on patient outcomes: evidence from a hospital experience”
     journal: Biotechnology and Genetic Engineering Reviews
-  - title: The impact of supply chain specific investments on firms’ market performance: the mediating role of innovation
+  - title: “The impact of supply chain specific investments on firms’ market performance: the mediating role of innovation”
     journal: Journal of Business & Industrial Marketing
-  - title: 基于数字技术的医疗管理文献回顾与展望
+  - title: “基于数字技术的医疗管理文献回顾与展望”
     journal: 工程管理科技前沿
 ---
 
