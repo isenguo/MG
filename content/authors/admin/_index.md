@@ -22,16 +22,16 @@ role: Assistant professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: School of Management, Zhengzhou University
-    url: [http://www7.zzu.edu.cn/glxy/info/1501/6152.htm]
+    url: http://www7.zzu.edu.cn/glxy/info/1501/6152.htm
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'isenguo@gmail.com'
+    url: "mailto:isenguo@gmail.com"
     label: E-mail Me
   - icon: brands/researchgate
-    url: [https://www.researchgate.net/profile/Mengqiu-Guo-4]
+    url: https://www.researchgate.net/profile/Mengqiu-Guo-4
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram
