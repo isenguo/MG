@@ -79,18 +79,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Movies
         description: ''
         percent: 60
         icon: Movies
-      - name: Movies
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: 狗
       - name: Tennis
         description: ''
         percent: 50
-        icon: camera
+        icon: 网球
 
 languages:
   - name: English
