@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 郭梦秋
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Guo Meng Qiu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mengqiu
+last_name: Guo
 
 # Status emoji
 status:
@@ -17,83 +17,46 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Assistant professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: School of Management, Zhengzhou University
+    url: [http://www7.zzu.edu.cn/glxy/info/1501/6152.htm]
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'isenguo@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
+  - icon: brands/researchgate
+    url: [https://www.researchgate.net/profile/Mengqiu-Guo-4]
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: PhD Management Science and Engineering
+    institution: Tianjin University
+    date_start: 2019-09
+    date_end: 2023-06
+  - area: M.S. Operations, Projects and Supply Chain
+    institution: University of Manchester
+    date_start: 2017-08
+    date_end: 2018-12
+  - area: B.S. Supply Chain and Information Systems
+    institution: Pennsylvania State University
+    date_start: 2013-08
+    date_end: 2016-12
+ 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: assistant professor
+    company_name: School of Management, Zhengzhou University
+    company_url: 'http://www7.zzu.edu.cn/glxy/index.htm'
+    date_start: 2023-10
+    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -119,14 +82,14 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: Movies
+      - name: Movies
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Tennis
         description: ''
-        percent: 80
+        percent: 50
         icon: camera
 
 languages:
